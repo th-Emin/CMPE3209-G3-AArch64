@@ -1,6 +1,6 @@
 /* Muhammet Emin Toraman, 5001230008, G3 */
 #define N 32 // N'yi global arr tanımlayabilmek için variable olarak tanımlanmadı
-const unsigned int SID = 1230008; // 5001230008 2^32'yi aştığı için son 9 hanesi
+const int SID = 1230008; // 5001230008 (2^31 - 1)'i aştığı için son 9 hanesi
 const unsigned int R = 26;
 const unsigned int B = 65;
 const unsigned int K = 184;
